@@ -1,16 +1,47 @@
-# getx_sample_app
+# GetxAuth
+## _An example of i18n using getx_
 
-A new Flutter application.
+GetxAuth is a sample project to illustrate the example of i18n and global keys. We have three screens in this project. 
 
-## Getting Started
+- Home Screen
+- Login Screen
+- Sign Up Screen
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Getx Routing
+- Controllers and Bindings
+- i18n
+- Support of RTL
+- Logic Seperation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> This is demo project to illustrate the example
+> of Getx Routing, Controllers, Bindings,
+> Login Seperation.
+## Tech & Packages
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GetxAuth uses the following techology while working on this project:
+
+- Flutter
+- Getx
+
+And of course GetxAuth itself is open source with a public repository
+ on GitHub.
+
+## Installation
+
+GetxAuth requires [Flutter](https://flutter.dev/)  to run.
+
+Go to pubspec.yaml and click on Pub get or use below commands:
+
+```sh
+flutter pub get
+```
+
+## Run
+
+User can run this project by clicking on the Run button in the Android Studio or can run using below command:
+
+```sh
+flutter run
+```
